@@ -26,4 +26,15 @@ From there the only packages that are needed are `pandas` and `numpy` for now an
 
 # Materials
 
+The lecture materials are divided into three main components. The slides that will support the presentation, the coding materials for the topics covered, and the dataset that we will use. 
+
+- [Slides for the lecture](presentation/Class_python_EMIBA.pdf)
+- Jupyter notebooks for the different topics covered:
+    - [Python Basics](scripts/Python_Basics.ipynb)
+    - [Introduction to Pandas](scripts/Introduction_to_Pandas.ipynb)
+    - [Introduction to Numpy](scripts/Introduction_to_Numpy.ipynb)
+- Dataset for credit scoring in two formats: 
+    - [tsv format](datasets/Dataset_credit_scoring.tsv)
+    - [Excel format](datasets/Dataset_credit_scoring.xlsx)
+
 
