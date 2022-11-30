@@ -36,5 +36,3 @@ The lecture materials are divided into three main components. The slides that wi
 - Dataset for credit scoring in two formats: 
     - [tsv format](datasets/Dataset_credit_scoring.tsv)
     - [Excel format](datasets/Dataset_credit_scoring.xlsx)
-
-
